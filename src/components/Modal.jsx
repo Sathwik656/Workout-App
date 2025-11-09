@@ -30,6 +30,7 @@ export default function Modal(props) {
           <h6>How to</h6>
           <p>{description}</p>
         </div>
+        <br></br>
         <div className="modal-actions">
           <button onClick={handleCloseModal} className="btn-secondary">Close</button>
         </div>
