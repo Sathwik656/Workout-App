@@ -302,7 +302,7 @@ input.weight-input:focus {
 }
 /* ===== HOME / LANDING PAGE ===== */
 .home-container {
-  background: var(--bg-primary);
+  background: transparent;
   color: var(--text-main);
   min-height: 100vh;
   display: flex;
